@@ -36,7 +36,9 @@
     "entitySuffix": "",
     "dtoSuffix": "DTO",
     "otherModules": [],
-    "blueprints": []
+    "blueprints": [],
+    "azureSpringCloudAppName": "devoxx2019",
+    "azureSpringCloudDeploymentType": "github-action"
   },
   "git-provider": "GitHub",
   "git-company": "jdubois",
